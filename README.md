@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishan.
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning FFrontend.
+- 🌱 I’m currently learning Frontend.
   
 - 📫 How to reach me nishankarki920@gmail.com
 - 😄 Pronouns: ...
