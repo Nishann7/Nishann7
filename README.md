@@ -4,29 +4,29 @@
 
 ## 🛠️ Technologies & Skills
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
+### 🎨 Frontend
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-### Database
-- SQL
-- MongoDB
+### ⚙️ Backend
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 ## 🚀 Projects
 
 ### Prabhu Trade Union Website
