@@ -1,12 +1,35 @@
-- 👋 Hi, I’m Nishan.
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Frontend.
-  
-- 📫 How to reach me nishankarki920@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Nishan 👋
 
-<!---
-Nishann7/Nishann7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Web Developer | Full-Stack Developer
+
+## 🛠️ Technologies & Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+
+### Database
+- SQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+## 🚀 Projects
+
+### Prabhu Trade Union Website
+Full-stack website built using Next.js, React, Tailwind CSS and MongoDB.
+
+🔗 [View Project](https://github.com/Nishann7/prabhu-trade-union-website)s
