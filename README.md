@@ -19,8 +19,7 @@ building websites and applications while improving my programming skills.
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nishann7&theme=darkhub&no-frame=true&no-bg=true&row=1&column=8" />
-
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nishann7&theme=flat&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🔥 GitHub Streak
