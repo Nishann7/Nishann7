@@ -1,35 +1,64 @@
-# Hi, I'm Nishan 👋
+# Hi 👋, I'm Nishan Karki
 
-💻 Web Developer | Full-Stack Developer
+### 💻 Web Developer | Software Engineering Student | Nepal 🇳🇵
 
-## 🛠️ Technologies & Skills
+I’m learning web development and software engineering, and I enjoy
+building websites and applications while improving my programming skills.
 
-### 🎨 Frontend
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+## 👨‍💻 About Me
 
-### ⚙️ Backend
+- 🌱 Currently learning HTML, CSS, JavaScript and React
+- 💻 Interested in Web Development and Software Engineering
+- 🚀 Building real-world projects
+- 🇳🇵 Based in Nepal
+- 📚 Always learning something new
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+---
 
-### 🗄️ Database
+## 🏆 GitHub Trophies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Nishann7&theme=darkhub&no-frame=true&no-bg=true&row=1&column=8" />
 
-### 🔧 Tools
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-## 🚀 Projects
+## 🔥 GitHub Streak
 
-### Prabhu Trade Union Website
-Full-stack website built using Next.js, React, Tailwind CSS and MongoDB.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nishann7&theme=dark)](https://git.io/streak-stats)
 
-🔗 [View Project](https://github.com/Nishann7/prabhu-trade-union-website)s
+---
+
+## 💻 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • SQL
+
+### Tools
+Git • GitHub • VS Code • Figma
+
+---
+
+## 📊 GitHub Stats
+
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishann7&show_icons=true&theme=dark)
+
+---
+
+## 🚀 Featured Project
+
+### Prabhu Union Website
+
+A modern web platform built using Next.js, TypeScript, Tailwind CSS and MongoDB.
+
+---
+
+### 📫 Connect With Me
+
+GitHub: https://github.com/Nishann7
