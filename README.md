@@ -67,7 +67,6 @@ I'm learning web development and software engineering, and I enjoy building webs
   <img src="https://streak-stats.demolab.com?user=Nishann7&theme=tokyonight&hide_border=true" />
 </p>
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
